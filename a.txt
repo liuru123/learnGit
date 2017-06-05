@@ -1,4 +1,8 @@
 want test again.
 I want you leave.
-睡困
+<<<<<<< HEAD
+睡ke
+=======
+睡ke
+>>>>>>> feature1
 fail？？？
