@@ -1,0 +1,10 @@
+want test again.
+I want you leave.
+<<<<<<< HEAD
+睡ke
+=======
+睡ke
+>>>>>>> feature1
+fail？？？
+I want 
+I want fix a bug
