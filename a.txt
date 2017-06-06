@@ -7,3 +7,4 @@ I want you leave.
 >>>>>>> feature1
 fail？？？
 I want 
+I want origin remote.
